@@ -1,2 +1,1 @@
-# learn-wp
-Wordpress Theme - tutorials and snippets
+# Wordpress Theme - Tutorials and Snippets

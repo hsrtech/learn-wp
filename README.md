@@ -1,1 +1,1 @@
-# Wordpress Theme - Tutorials and Snippets
+# Wordpress Theme - Notes and Snippets
